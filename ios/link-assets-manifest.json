@@ -1,0 +1,29 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Vazir-Black.ttf",
+      "sha1": "0ce3436d5beccc5874a0ac980c17327db9a7dd05"
+    },
+    {
+      "path": "src/assets/fonts/Vazir-Bold.ttf",
+      "sha1": "7043b8f66b3ffeb20f8f3f25f09c665e2531dd9a"
+    },
+    {
+      "path": "src/assets/fonts/Vazir-Light.ttf",
+      "sha1": "62fc0c2823598e64190e4d00be02343cf2e0a1cb"
+    },
+    {
+      "path": "src/assets/fonts/Vazir-Medium.ttf",
+      "sha1": "11e98b21cb31149e2eab62c3c0d81650a7617346"
+    },
+    {
+      "path": "src/assets/fonts/Vazir-Thin.ttf",
+      "sha1": "b1ac3985c40900e659ccd38eaae9d96011771877"
+    },
+    {
+      "path": "src/assets/fonts/Vazir.ttf",
+      "sha1": "04924bf1fec9b882bcdde74ca82080d0481b7ec1"
+    }
+  ]
+}
