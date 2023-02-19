@@ -1,4 +1,5 @@
-# SADRA MOVIES
+<img width='120' src="https://raw.githubusercontent.com/MsbSoft2/SADRA_MOVIES_REACT_NATIVE/main/src/assets/icon.png" />
+<h1>SADRA MOVIES</h1>
 ## React Native 0.71.1
 **Developer: Mohammad Sadra Boroumand**
 
