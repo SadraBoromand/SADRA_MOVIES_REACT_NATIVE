@@ -1,6 +1,6 @@
 # SADRA MOVIES
 ## React Native 0.71.1
-** Developer: Mohammad Sadra Boroumand**
+** Developer: Mohammad Sadra Boroumand **
 
 ---
 
